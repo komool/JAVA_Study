@@ -1,0 +1,5 @@
+
+*.xml
+*.iml
+out/production/JAVA_Study/Ch1.class
+.idea
